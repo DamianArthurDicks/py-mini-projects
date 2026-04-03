@@ -6,9 +6,7 @@ Uncompleted_Tasks = [
     "Come home and relax",
     "Go to Sleep",                
                     ]
-
 Completed_Tasks = []
-
 Activities = ""
 
 for Activities in range(5):
