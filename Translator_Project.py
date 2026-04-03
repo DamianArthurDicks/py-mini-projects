@@ -1,4 +1,4 @@
-def translate(phrase):    #we haveif statements inside of a for loop inside of while loop
+def translate(phrase):    #we have if statements inside of a for loop inside of a function
     translation = ""      #that can translate both lower and upper case vowels into g/G
     for letter in phrase:
         if letter.lower() in "aeiou":

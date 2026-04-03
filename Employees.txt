@@ -3,3 +3,4 @@ James - Salesman
 Cameron - Sales Assistant
 Gary - Business Owner
 Nathan - Office Janitor
+Jerry - Human Resources
