@@ -1,4 +1,4 @@
-import random
+import random   #imports "random" library
 
 Feet_in_Mile = 5280
 Meters_in_Kilometer = 1000
